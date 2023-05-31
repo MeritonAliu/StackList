@@ -41,6 +41,11 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## Website Bulder 
 - [Potion.so](https://potion.so)
+- [Webflow](https://webflow.com/)
+- [Wordpress](https://wordpress.org/)
+- [Wix](https://wix.com/)
+- [GoDaddy](https://www.godaddy.com/de-ch/websites/homepage-baukasten)
+- [Squarespace](https://www.squarespace.com/)
 
 ## Frontend Framworks
 - [UiKit](https://github.com/uikit/uikit)
@@ -58,6 +63,15 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [cookiemetrix](https://www.cookiemetrix.com/)
 - [SSL CHECK](https://www.jitbit.com/sslcheck/)
 - [2GDPR](https://2gdpr.com/)
+
+## Domain 
+ - [GoDaddy](https://www.godaddy.com/de-ch/websites/homepage-baukasten
+ - [Hostpoint](https://www.hostpoint.ch/en/)
+ - [google domains](https://domains.google/)
+ - [namecheap](https://www.namecheap.com/)
+ - [domain](https://www.domain.com/domains/)
+ - [bluehost](https://www.bluehost.com/domains)
+ - [sedo](https://sedo.com/us/)
 
 ## AI
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
