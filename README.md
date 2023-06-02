@@ -308,6 +308,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## Youtuber
 - [TsodingDaily](https://youtube.com/@TsodingDaily)
+- [crr0ww](https://youtube.com/@crr0ww)
+- [devaslife](https://youtube.com/@devaslife)
 
 ## Linux 
 - [Ifuse](https://github.com/libimobiledevice/ifuse)
@@ -315,3 +317,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## GNOME Extensions
 - [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
+
+
+## PCB / Electornics
+- [JLCPCB](https://jlcpcb.com/)
