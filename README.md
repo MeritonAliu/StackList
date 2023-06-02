@@ -288,6 +288,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## Themes
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
 - [Dracula](https://draculatheme.com/)
+- [Gruvbox](https://github.com/morhetz/gruvbox)
 
 ## Wikis 
 - [Arch Wiki](https://wiki.archlinux.org/)
