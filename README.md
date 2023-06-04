@@ -39,9 +39,12 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [LaxJS animatin scrolls](https://github.com/alexfoxy/lax.js)
 - [csslayout](https://csslayout.io/)
 
+## Web Dev General 
+- [webpack](https://webpack.js.org/)
+
 ## Website Bulder 
 - [Potion.so](https://potion.so)
-- [Webflow](https://webflow.com/)
+- [Webflow](https://webflow.com/)mojo
 - [Wordpress](https://wordpress.org/)
 - [Wix](https://wix.com/)
 - [GoDaddy](https://www.godaddy.com/de-ch/websites/homepage-baukasten)
@@ -49,6 +52,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## Frontend Framworks
 - [UiKit](https://github.com/uikit/uikit)
+- [ViteJS](https://vitejs.dev/)
 
 ## SEO
 - [SEO Schema org](https://schema.org/)
@@ -80,6 +84,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [AskCodi](https://www.askcodi.com/)
 - [CoPilot](https://github.com/features/copilot)
 - [tabnine](https://www.tabnine.com/)
+- [localGPT](https://github.com/PromtEngineer/localGPT)
 
 ## Librarys
 - [Date Picker](https://flatpickr.js.org/examples/)
@@ -157,6 +162,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [C#, modern, multi-paradigm programming language](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Ruby, dynamic, object-oriented programming language](https://www.ruby-lang.org/en/)
 - [Dart, client-optimized language for fast apps on multiple platforms](https://dart.dev/)
+- [Modular Mojo (AI)](https://www.modular.com/mojo)
 
 ## API
 - [SMS API Service](https://www.twilio.com/de/)
@@ -200,6 +206,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [imgur](http://imgur.com/)
 - [tldraw](https://www.tldraw.com/)
 - [pomofocus](https://pomofocus.io/)
+- [Tefcha](https://github.com/hrhr49/tefcha)
 
 ## Files
 - [Google Drive, cloud storage and file backup](https://www.google.com/drive/)
@@ -212,6 +219,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [swimm, docu for code](https://swimm.io/)
 - [svg counter](https://visitcount.itsvg.in/)
 - [Github readme](https://gprm.itsvg.in/)
+- [Grammarly](https://app.grammarly.com/)
 
 ## Freelancing
 - [Junico](https://www.junico.de/)
@@ -228,6 +236,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## Emails
 - [react mails](https://react.email/)
 - [1000+Email-Ideas](https://1000emailideas.com/)
+
 ## Notes 
 - [jrnl cli](https://jrnl.sh/en/stable/)
 - [obsidian](https://obsidian.md/)
@@ -302,6 +311,12 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Dead Cells](https://store.steampowered.com/app/588650/Dead_Cells/)
 - [Minecraft](https://www.minecraft.net/en-us)
 
+## Cloud Gaming
+- [Geforce Now](https://play.geforcenow.com/mall/)
+- [Boosteroid](https://boosteroid.com/)
+- [XBox Cloud Gaming](https://www.xbox.com/en-US/cloud-gaming)
+- [Amazon Luna](https://www.amazon.com/Luna/)
+
 ## Benchmarking
 - [PC game benchmarking](https://www.pcgamebenchmark.com/)
 - [Speedtest](speedtest.net/)
@@ -321,3 +336,6 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## PCB / Electornics
 - [JLCPCB](https://jlcpcb.com/)
+
+## IoT
+- [Brydge](https://www.brydge.dev/)
