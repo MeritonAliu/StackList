@@ -4,7 +4,7 @@ The repository includes a variety of sections, such as FullStack Frameworks, Fro
 
 This list is regularly updated and aims to provide a comprehensive collection of resources to assist developers and students in their projects and learning endeavors.
 
-For a more extensive list of resources, you can also check out the [Bigger List](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) linked in the repository.
+For a more extensive list of resources, you can also check out the [Bigger List](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) linked in the repository. Also check out [awesome-tuis by rothgar](https://github.com/rothgar/awesome-tuis).
 
 Made by [MeritonAliu](https://github.com/MeritonAliu/) 
 31.05.2023
@@ -127,6 +127,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## CI/CD
 - [synk](https://snyk.io/)
 - [semaphore](https://semaphoreci.com/)
+- [github actions](https://docs.github.com/en/actions)
 
 ## UI/UX
 - [Figma](https://www.figma.com/de/)
