@@ -69,7 +69,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [2GDPR](https://2gdpr.com/)
 
 ## Domain 
- - [GoDaddy](https://www.godaddy.com/de-ch/websites/homepage-baukasten()
+ - [GoDaddy](https://www.godaddy.com/de-ch/websites/homepage-baukasten)
  - [Hostpoint](https://www.hostpoint.ch/en/)
  - [google domains](https://domains.google/)
  - [namecheap](https://www.namecheap.com/)
