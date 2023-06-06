@@ -85,6 +85,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [CoPilot](https://github.com/features/copilot)
 - [tabnine](https://www.tabnine.com/)
 - [localGPT](https://github.com/PromtEngineer/localGPT)
+- [perplexity](https://www.perplexity.ai/)
 
 ## Librarys
 - [Date Picker](https://flatpickr.js.org/examples/)
