@@ -312,6 +312,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Celeste](https://store.steampowered.com/app/504230/celeste/) 
 - [Dead Cells](https://store.steampowered.com/app/588650/Dead_Cells/)
 - [Minecraft](https://www.minecraft.net/en-us)
+- [Humar Or Not?](https://www.humanornot.ai/)
 
 ## Cloud Gaming
 - [Geforce Now](https://play.geforcenow.com/mall/)
