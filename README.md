@@ -104,6 +104,18 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [css-tricks](https://css-tricks.com/)
 - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+## UI Learning 
+-  [UICoache](https://www.uicoach.io/)
+- [DailyUI](https://www.dailyui.co/)
+- [Pixactly](https://pixact.ly/)
+- [method](https://type.method.ac/)
+- [designercize](https://designercize.com/)
+- [whatthehex](https://yizzle.com/whatthehex/?n=2)
+- [typewar](https://typewar.com/)
+- [cant unsee](https://cantunsee.space/)
+- [designer eyes](https://www.supremo.co.uk/designers-eye/)
+- [hexinvaders](http://www.hexinvaders.com/)
+
 ## Databases
 - [Prisma, NextJS DB](https://www.prisma.io/nextjs)
 - [PosgtreSQL](https://www.postgresql.org/)
