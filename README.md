@@ -259,6 +259,9 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [validates_url](https://github.com/perfectline/validates_url)
 - [sdoc](https://github.com/rails/sdoc)
 - [pretender](https://github.com/ankane/pretender)
+- [arbre](https://github.com/activeadmin/arbre)
+- [validates url](https://github.com/perfectline/validates_url)
+- [mobility](https://github.com/shioyama/mobility)
 
 ## CLI Tools
 - [forgit](https://github.com/wfxr/forgit)
