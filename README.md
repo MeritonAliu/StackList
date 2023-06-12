@@ -260,7 +260,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [sdoc](https://github.com/rails/sdoc)
 - [pretender](https://github.com/ankane/pretender)
 
-## CLI Tools 
+## CLI Tools
+- [forgit](https://github.com/wfxr/forgit)
 - [gdu](https://github.com/dundee/gdu)
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 - [trash-cli](https://github.com/sindresorhus/trash-cli)
