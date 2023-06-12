@@ -1,4 +1,4 @@
-This repository is a curated list of resources and tools suitable for developers and students, created by [MeritonAliu](https://github.com/MeritonAliu/). It is designed to provide a comprehensive collection of useful links and references covering various aspects of web development, programming, design, documentation, freelancing, and more.
+# This repository is a curated list of resources and tools suitable for developers and students, created by [MeritonAliu](https://github.com/MeritonAliu/). It is designed to provide a comprehensive collection of useful links and references covering various aspects of web development, programming, design, documentation, freelancing, and more.
 
 The repository includes a variety of sections, such as FullStack Frameworks, Frontend Tools, Website Builders, Frontend Frameworks, SEO, Security, AI, Libraries, Learning resources, Databases, Deployment options, CI/CD tools, UI/UX resources, Project Management tools, Programming Languages, APIs, Backend resources, Authentication solutions, Blogs and News, Useful Tools, File-related resources, Documentation tools, Ruby Gems, CLI Tools, Inspiration sources, Postgres ORM's, Obsidian Plugins, Themes, Wikis, Games, Benchmarking tools, Linux resources, GNOME Extensions, and more.
 
@@ -258,6 +258,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [rbs](https://github.com/pocke/rbs_rails)
 - [validates_url](https://github.com/perfectline/validates_url)
 - [sdoc](https://github.com/rails/sdoc)
+- [pretender](https://github.com/ankane/pretender)
 
 ## CLI Tools 
 - [gdu](https://github.com/dundee/gdu)
