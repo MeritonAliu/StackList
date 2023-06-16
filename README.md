@@ -212,6 +212,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [newsnow](https://www.newsnow.co.uk/h/Technology)
 - [reddit](https://www.reddit.com/)
 - [inforeader](https://www.inoreader.com/)
+- [fosslinux](https://www.fosslinux.com/)
 
 ## Tools
 - [Temp Mail](https://temp-mail.org/)
