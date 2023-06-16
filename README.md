@@ -1,5 +1,3 @@
-# This repository is a curated list of resources and tools suitable for developers and students, created by [MeritonAliu](https://github.com/MeritonAliu/). It is designed to provide a comprehensive collection of useful links and references covering various aspects of web development, programming, design, documentation, freelancing, and more.
-
 The repository includes a variety of sections, such as FullStack Frameworks, Frontend Tools, Website Builders, Frontend Frameworks, SEO, Security, AI, Libraries, Learning resources, Databases, Deployment options, CI/CD tools, UI/UX resources, Project Management tools, Programming Languages, APIs, Backend resources, Authentication solutions, Blogs and News, Useful Tools, File-related resources, Documentation tools, Ruby Gems, CLI Tools, Inspiration sources, Postgres ORM's, Obsidian Plugins, Themes, Wikis, Games, Benchmarking tools, Linux resources, GNOME Extensions, and more.
 
 This list is regularly updated and aims to provide a comprehensive collection of resources to assist developers and students in their projects and learning endeavors.
@@ -8,6 +6,8 @@ For a more extensive list of resources, you can also check out the [Bigger List]
 
 Made by [MeritonAliu](https://github.com/MeritonAliu/) 
 31.05.2023
+
+---
 
 ## FullStack Frameworks
 - [Rails MVC](https://rubyonrails.org/)
@@ -18,6 +18,9 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [React](https://reactjs.org/)
 - [Flutter](https://flutter.dev/)
 - [NuxtJS](https://nuxtjs.org/)
+
+## Desktop App Frameworks 
+- [Tauri](https://tauri.app/)
 
 ## Frontend Tools
 - [SCSS](https://sass-lang.com/)
@@ -38,6 +41,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Material UI React Compoments](https://mui.com/)
 - [LaxJS animatin scrolls](https://github.com/alexfoxy/lax.js)
 - [csslayout](https://csslayout.io/)
+- [css-study](https://css-study.web.app/)
 
 ## Web Dev General 
 - [webpack](https://webpack.js.org/)
@@ -67,6 +71,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [cookiemetrix](https://www.cookiemetrix.com/)
 - [SSL CHECK](https://www.jitbit.com/sslcheck/)
 - [2GDPR](https://2gdpr.com/)
+- [1.1.1.1](https://1.1.1.1/)
 
 ## Domain 
  - [GoDaddy](https://www.godaddy.com/de-ch/websites/homepage-baukasten)
@@ -86,6 +91,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [tabnine](https://www.tabnine.com/)
 - [localGPT](https://github.com/PromtEngineer/localGPT)
 - [perplexity](https://www.perplexity.ai/)
+- [Google Cirq](https://quantumai.google/cirq)
+- [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 
 ## Librarys
 - [Date Picker](https://flatpickr.js.org/examples/)
@@ -179,6 +186,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Modular Mojo (AI)](https://www.modular.com/mojo)
 
 ## API
+- [Public API](https://github.com/public-apis/public-api)
 - [SMS API Service](https://www.twilio.com/de/)
 - [Posttman](https://www.postman.com/)
 - [Hoppschotch](https://hoppscotch.io/)
@@ -234,6 +242,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [svg counter](https://visitcount.itsvg.in/)
 - [Github readme](https://gprm.itsvg.in/)
 - [Grammarly](https://app.grammarly.com/)
+- [vaults](https://lukerambling.de/posts/labyrinth-of-digital-gardens/)
 
 ## Freelancing
 - [Junico](https://www.junico.de/)
@@ -274,6 +283,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [arbre](https://github.com/activeadmin/arbre)
 - [validates url](https://github.com/perfectline/validates_url)
 - [mobility](https://github.com/shioyama/mobility)
+- [authrail](https://github.com/ankane/authtrail)
 
 ## CLI Tools
 - [forgit](https://github.com/wfxr/forgit)
@@ -291,6 +301,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [atuin history](https://github.com/ellie/atuin#install)
 - [jrnl cli](https://jrnl.sh/en/stable/)
 - [glow](https://github.com/charmbracelet/glow)
+- [birthday reminder](https://github.com/aneshodza/birthday-reminder)
 
 ## Insipration
 - [Dribbble](https://dribbble.com/)
@@ -353,9 +364,11 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## GNOME Extensions
 - [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
 
-
 ## PCB / Electornics
 - [JLCPCB](https://jlcpcb.com/)
 
 ## IoT
 - [Brydge](https://www.brydge.dev/)
+
+## Shortcuts
+- [DuckDuckGo !Bangs](https://duckduckgo.com/bangs)
