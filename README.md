@@ -95,6 +95,13 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Google Cirq](https://quantumai.google/cirq)
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 
+## AI Tools for content
+- [Tribescaler](https://tribescaler.com/)
+- [Imgcreator by ZMO AI](https://imgcreator.zmo.ai/)
+- [Upword](https://www.upword.ai/)
+- [Synthesia](https://www.synthesia.io/)
+- [gamma](https://gamma.app/)
+
 ## Librarys
 - [Date Picker](https://flatpickr.js.org/examples/)
 - [awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
@@ -344,6 +351,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## Obsidian Plugins 
 - [completed-area](https://github.com/DahaWong/obsidian-completed-area)
 - [commander](https://github.com/phibr0/obsidian-commander)
+- [weaver](https://github.com/vasilecampeanu/obsidian-weaver)
+- [obsidina copilot](https://github.com/logancyang/obsidian-copilot)
 
 ## Themes
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
@@ -384,6 +393,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## Linux 
 - [Ifuse](https://github.com/libimobiledevice/ifuse)
 - [portmaster](https://safing.io/)
+- [privategpt4linux](https://github.com/MichaelSebero/PrivateGPT4Linux)
 
 ## GNOME Extensions
 - [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
@@ -396,3 +406,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## Shortcuts
 - [DuckDuckGo !Bangs](https://duckduckgo.com/bangs)
+
+
+## Random
+- [Shhh noise](https://www.shhhnoise.com/)
+- [typleLit.io](https://www.typelit.io/)
