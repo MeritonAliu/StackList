@@ -18,6 +18,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [React](https://reactjs.org/)
 - [Flutter](https://flutter.dev/)
 - [NuxtJS](https://nuxtjs.org/)
+- [tide rust](https://github.com/http-rs/tide)
 
 ## Desktop App Frameworks 
 - [Tauri](https://tauri.app/)
@@ -357,6 +358,9 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [TsodingDaily](https://youtube.com/@TsodingDaily)
 - [crr0ww](https://youtube.com/@crr0ww)
 - [devaslife](https://youtube.com/@devaslife)
+- [no boilerplate](https://www.youtube.com/@NoBoilerplate)
+- [coderized](https://www.youtube.com/@coderized)
+- [dreams of code](https://www.youtube.com/@dreamsofcode)
 
 ## Linux 
 - [Ifuse](https://github.com/libimobiledevice/ifuse)
