@@ -149,6 +149,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [synk](https://snyk.io/)
 - [semaphore](https://semaphoreci.com/)
 - [github actions](https://docs.github.com/en/actions)
+-
 
 ## UI/UX
 - [Figma](https://www.figma.com/de/)
@@ -198,6 +199,23 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [StrapIO](^https://strapi.ihttps://strapi.io/)
 - [nhost](https://nhost.io/)
 - [appwrite](https://appwrite.io/)
+- [Google Compute Engine](https://cloud.google.com/compute)
+- [Google Cloud Functions](https://cloud.google.com/functions)
+- [Cloudflare Workers](https://workers.cloudflare.com/)
+- [Netlify Functions](https://www.netlify.com/products/functions/)
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+- [PlanetScale](https://planetscale.com/)
+- [Supabase](https://supabase.com/)
+- [Sanity.io](https://www.sanity.io/)
+- [Cyclic.sh](https://cyclic.sh/)
+- [Deta.sh](https://deta.space/)
+- [Vercel](https://vercel.com/)
+- [Fly.io](https://fly.io/)
+- [Glitch](https://glitch.com/)
+- [Firebase](https://firebase.google.com/)
+- [Render.com](https://render.com/)
+- [Stormkit.io](http://Stormkit.io)
+- [Railway.app](https://railway.app/)
 
 ## Auth
 - [auth0](https://auth0.com/)
@@ -325,6 +343,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## Obsidian Plugins 
 - [completed-area](https://github.com/DahaWong/obsidian-completed-area)
+- [commander](https://github.com/phibr0/obsidian-commander)
 
 ## Themes
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
