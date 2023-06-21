@@ -120,7 +120,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## UI Learning 
--  [UICoache](https://www.uicoach.io/)
+- [UICoache](https://www.uicoach.io/)
 - [DailyUI](https://www.dailyui.co/)
 - [Pixactly](https://pixact.ly/)
 - [method](https://type.method.ac/)
@@ -197,7 +197,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## API
 - [Public API](https://github.com/public-apis/public-api)
 - [SMS API Service](https://www.twilio.com/de/)
-- [Posttman](https://www.postman.com/)
+- [Postman](https://www.postman.com/)
 - [Hoppschotch](https://hoppscotch.io/)
 - [novu](https://novu.co/)
 - [Nasa](https://api.nasa.gov/)
