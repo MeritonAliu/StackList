@@ -311,6 +311,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [validates url](https://github.com/perfectline/validates_url)
 - [mobility](https://github.com/shioyama/mobility)
 - [authrail](https://github.com/ankane/authtrail)
+- [scenic](https://github.com/scenic-views/scenic)
+- [lookbook.ui](https://lookbook.build/)
 
 ## CLI Tools
 - [forgit](https://github.com/wfxr/forgit)
@@ -329,6 +331,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [jrnl cli](https://jrnl.sh/en/stable/)
 - [glow](https://github.com/charmbracelet/glow)
 - [birthday reminder](https://github.com/aneshodza/birthday-reminder)
+- [mprocs](https://github.com/pvolok/mprocs)
+- [thefuck](https://github.com/nvbn/thefuck)
 
 ## Insipration
 - [Dribbble](https://dribbble.com/)
@@ -353,6 +357,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [commander](https://github.com/phibr0/obsidian-commander)
 - [weaver](https://github.com/vasilecampeanu/obsidian-weaver)
 - [obsidina copilot](https://github.com/logancyang/obsidian-copilot)
+- [tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
 
 ## Themes
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
@@ -397,6 +402,10 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## GNOME Extensions
 - [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
+
+## Firefox Extensions 
+- [Fandom Redirector](https://addons.mozilla.org/en-US/firefox/addon/fandom-redirector/)
+- 
 
 ## PCB / Electornics
 - [JLCPCB](https://jlcpcb.com/)
