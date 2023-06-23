@@ -270,6 +270,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Github readme](https://gprm.itsvg.in/)
 - [Grammarly](https://app.grammarly.com/)
 - [vaults](https://lukerambling.de/posts/labyrinth-of-digital-gardens/)
+- [mdbook](https://github.com/rust-lang/mdBook)
 
 ## Freelancing
 - [Junico](https://www.junico.de/)
@@ -333,6 +334,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [birthday reminder](https://github.com/aneshodza/birthday-reminder)
 - [mprocs](https://github.com/pvolok/mprocs)
 - [thefuck](https://github.com/nvbn/thefuck)
+- [fzf-completitions](https://github.com/chitoku-k/fzf-zsh-completions)
 
 ## Insipration
 - [Dribbble](https://dribbble.com/)
@@ -385,7 +387,9 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 
 ## Benchmarking
 - [PC game benchmarking](https://www.pcgamebenchmark.com/)
-- [Speedtest](speedtest.net/)
+- [Speedtest Ookla](https://www.speedtest.net/)
+- [Speedtest fast](https://fast.com/)
+- 
 
 ## Youtuber
 - [TsodingDaily](https://youtube.com/@TsodingDaily)
