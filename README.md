@@ -83,6 +83,9 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
  - [bluehost](https://www.bluehost.com/domains)
  - [sedo](https://sedo.com/us/)
 
+## E-Commerce
+- [solidus](https://github.com/solidusio/solidus)
+
 ## AI
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 - [ChatGPT](https://chat.openai.com/chat)
@@ -234,7 +237,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Daily Dev](https://daily.dev/)
 - [Dev.to](https://dev.to)
 - [Medium](https://medium.com/)
-- [OmgUbuntu](omgubuntu.co.uk/)
+- [OmgUbuntu]([omgubuntu.co.uk/](https://www.omgubuntu.co.uk/))
 - [newsnow](https://www.newsnow.co.uk/h/Technology)
 - [reddit](https://www.reddit.com/)
 - [inforeader](https://www.inoreader.com/)
@@ -293,7 +296,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [obsidian](https://obsidian.md/)
 - [notion](https://www.notion.so/)
 - [capacities.io](https://capacities.io/)
-- [raindrop.io](raindrop.io)
+- [raindrop.io]([raindrop.io](https://raindrop.io/))
 - [instapaper](https://www.instapaper.com/)
 
 ## Ruby Gems 
