@@ -204,6 +204,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Hoppschotch](https://hoppscotch.io/)
 - [novu](https://novu.co/)
 - [Nasa](https://api.nasa.gov/)
+- [Stripe](https://stripe.com/en-ch)
 
 ## Backend 
 - [StrapIO](^https://strapi.ihttps://strapi.io/)
@@ -274,6 +275,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Grammarly](https://app.grammarly.com/)
 - [vaults](https://lukerambling.de/posts/labyrinth-of-digital-gardens/)
 - [mdbook](https://github.com/rust-lang/mdBook)
+- [obsidian](https://help.obsidian.md/)
 
 ## Freelancing
 - [Junico](https://www.junico.de/)
@@ -299,7 +301,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [raindrop.io]([raindrop.io](https://raindrop.io/))
 - [instapaper](https://www.instapaper.com/)
 
-## Ruby Gems 
+## Ruby / RoR 
 - [singed](https://medium.com/gusto-engineering/singed-a-profiler-front-end-for-ruby-and-rails-applications-f0f02da21e89)
 - [money-rails](https://github.com/RubyMoney/money-rails)
 - [Cocoon, nested forms](https://github.com/nathanvda/cocoon)
@@ -318,6 +320,12 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [scenic](https://github.com/scenic-views/scenic)
 - [lookbook.ui](https://lookbook.build/)
 - [email-spec](https://github.com/email-spec/email-spec)
+- [smarter_csv](https://github.com/tilo/smarter_csv)
+- [fx](https://github.com/teoljungberg/fx)
+- [omniauth](https://github.com/omniauth/omniauth)
+- [rails-erd](https://github.com/voormedia/rails-erd)
+- [recaptcha](https://github.com/ambethia/recaptcha)
+- [money](https://github.com/RubyMoney/money)
 
 
 ## .NET
@@ -343,6 +351,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [mprocs](https://github.com/pvolok/mprocs)
 - [thefuck](https://github.com/nvbn/thefuck)
 - [fzf-completitions](https://github.com/chitoku-k/fzf-zsh-completions)
+- [enhancedcd](https://github.com/b4b4r07/enhancd)
 
 ## Insipration
 - [Dribbble](https://dribbble.com/)
