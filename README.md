@@ -317,6 +317,8 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [authrail](https://github.com/ankane/authtrail)
 - [scenic](https://github.com/scenic-views/scenic)
 - [lookbook.ui](https://lookbook.build/)
+- [email-spec](https://github.com/email-spec/email-spec)
+- 
 
 ## CLI Tools
 - [forgit](https://github.com/wfxr/forgit)
