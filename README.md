@@ -318,7 +318,10 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [scenic](https://github.com/scenic-views/scenic)
 - [lookbook.ui](https://lookbook.build/)
 - [email-spec](https://github.com/email-spec/email-spec)
-- 
+
+
+## .NET
+- [Scottplott](https://github.com/ScottPlot/ScottPlot)
 
 ## CLI Tools
 - [forgit](https://github.com/wfxr/forgit)
@@ -383,6 +386,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Dead Cells](https://store.steampowered.com/app/588650/Dead_Cells/)
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Humar Or Not?](https://www.humanornot.ai/)
+- [Noita](https://noitagame.com/)
 
 ## Cloud Gaming
 - [Geforce Now](https://play.geforcenow.com/mall/)
