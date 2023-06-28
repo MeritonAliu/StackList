@@ -352,6 +352,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [thefuck](https://github.com/nvbn/thefuck)
 - [fzf-completitions](https://github.com/chitoku-k/fzf-zsh-completions)
 - [enhancedcd](https://github.com/b4b4r07/enhancd)
+- [zsh-z](https://github.com/agkozak/zsh-z)
 
 ## Insipration
 - [Dribbble](https://dribbble.com/)
