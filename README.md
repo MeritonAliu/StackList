@@ -326,7 +326,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [rails-erd](https://github.com/voormedia/rails-erd)
 - [recaptcha](https://github.com/ambethia/recaptcha)
 - [money](https://github.com/RubyMoney/money)
-
+- [magic-test](https://github.com/bullet-train-co/magic_test)
 
 ## .NET
 - [Scottplott](https://github.com/ScottPlot/ScottPlot)
