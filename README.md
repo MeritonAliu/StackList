@@ -422,6 +422,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 - [Ifuse](https://github.com/libimobiledevice/ifuse)
 - [portmaster](https://safing.io/)
 - [privategpt4linux](https://github.com/MichaelSebero/PrivateGPT4Linux)
+- [luminance](https://github.com/sidevesh/Luminance)
 
 ## GNOME Extensions
 - [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
@@ -443,3 +444,7 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## Random
 - [Shhh noise](https://www.shhhnoise.com/)
 - [typleLit.io](https://www.typelit.io/)
+
+## SVG
+- [SVG Counter](https://visitcount.itsvg.in/)
+- 
