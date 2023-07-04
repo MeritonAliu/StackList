@@ -47,6 +47,10 @@ Made by [MeritonAliu](https://github.com/MeritonAliu/)
 ## Web Dev General 
 - [webpack](https://webpack.js.org/)
 
+## Monitoring
+- [uptimerobot](https://uptimerobot.com/)
+- [sentry](https://sentry.io/welcome/)
+
 ## Website Bulder 
 - [Potion.so](https://potion.so)
 - [Webflow](https://webflow.com/)
